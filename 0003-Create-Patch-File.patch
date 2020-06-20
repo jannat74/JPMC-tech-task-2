@@ -1,7 +1,7 @@
 From 3d4feb20c812b664be2f476ad83c8618b42b829f Mon Sep 17 00:00:00 2001
-From: Touhid Sayed <sayyedtouheed704@gmail.com>
-Date: Tue, 5 May 2020 12:51:53 +0530
-Subject: [PATCH] Create patch file
+From: jannat74 <jannatzia72@gmail.com>
+Date: Sat, 20 Jun 2020 08:00:58 +0500
+Subject: [PATCH] Create Patch File
 
 ---
  package-lock.json      | 218 ++++++++++++++++++++++++++++++++++++-----
